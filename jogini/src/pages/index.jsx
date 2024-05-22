@@ -1,6 +1,7 @@
-import { Header } from '../components/header/header.js';
-import { Intro } from '../components/intro/intro.js';
-import { Pose } from '../components/pose/pose.js';
+import { Header } from '../components/header/header.jsx';
+import { Intro } from '../components/intro/intro.jsx';
+import { Pose } from '../components/pose/pose.jsx';
+import obr from '../img/yoga-pose.jpg';
 
 const headerProps = { title: 'Jogíni' };
 
